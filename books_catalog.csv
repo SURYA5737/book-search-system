@@ -1,0 +1,51 @@
+Book_Title,Genre,Price_INR,Cost_Status
+The Alchemist,Fiction,299,Affordable
+Wings of Fire,Biography,350,Affordable
+Atomic Habits,Self-Help,499,Moderate
+Python Crash Course,Programming,899,Premium
+Rich Dad Poor Dad,Finance,325,Affordable
+The Psychology of Money,Finance,399,Affordable
+Sapiens,History,599,Moderate
+Clean Code,Programming,1299,Premium
+Harry Potter and the Sorcerer's Stone,Fantasy,450,Moderate
+The Guide,Fiction,225,Affordable
+Think and Grow Rich,Self-Help,250,Affordable
+R for Data Science,Programming,1099,Premium
+A Brief History of Time,Science,375,Affordable
+Ponniyin Selvan,Historical Fiction,650,Moderate
+The Discovery of India,History,425,Moderate
+Introduction to Algorithms,Computer Science,1250,Premium
+Database System Concepts,Computer Science,950,Premium
+Operating System Concepts,Computer Science,899,Premium
+Computer Networks,Computer Science,775,Moderate
+Data Structures Using C,Computer Science,520,Moderate
+Let Us C,Programming,380,Affordable
+Object Oriented Programming with C++,Programming,450,Moderate
+Java The Complete Reference,Programming,850,Premium
+Artificial Intelligence A Modern Approach,Computer Science,1100,Premium
+Digital Logic and Computer Design,Electronics,420,Moderate
+Electronic Devices and Circuit Theory,Electronics,680,Moderate
+Signals and Systems,Electronics,590,Moderate
+Engineering Mathematics,Mathematics,540,Moderate
+Higher Engineering Mathematics,Mathematics,620,Moderate
+Linear Algebra and Its Applications,Mathematics,810,Premium
+Probability and Statistics for Engineers,Mathematics,475,Moderate
+Concepts of Physics,Physics,560,Moderate
+Fundamentals of Physics,Physics,890,Premium
+Organic Chemistry,Chemistry,980,Premium
+Engineering Chemistry,Chemistry,395,Affordable
+Engineering Mechanics,Mechanical Engineering,430,Moderate
+Thermodynamics An Engineering Approach,Mechanical Engineering,870,Premium
+Strength of Materials,Civil Engineering,410,Moderate
+Fluid Mechanics,Civil Engineering,495,Moderate
+Principles of Management,Management,350,Affordable
+Marketing Management,Management,720,Moderate
+Financial Accounting,Commerce,385,Affordable
+Cost Accounting,Commerce,425,Moderate
+Principles of Economics,Economics,640,Moderate
+Indian Economy,Economics,370,Affordable
+Business Law,Commerce,330,Affordable
+Biochemistry,Biology,760,Moderate
+Human Anatomy and Physiology,Medical,1150,Premium
+Environmental Studies,Science,280,Affordable
+Technical Communication,English,260,Affordable
